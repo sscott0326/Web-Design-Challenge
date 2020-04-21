@@ -1,0 +1,25 @@
+h1 {
+    color: #6b1010;
+}
+
+h5 {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    background-color:#C6C6C6;
+}
+
+.table-responsive {
+    text-align: center;
+    padding: 50px;
+}
+
+.data-head {
+    padding: 50px;
+}
